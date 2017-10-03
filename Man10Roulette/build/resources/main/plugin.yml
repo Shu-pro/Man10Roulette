@@ -1,0 +1,6 @@
+name: Man10Roulette
+version: 1.0-SNAPSHOT
+main: red.man10.man10roulette.Man10Roulette
+commands:
+  mr:
+    description: aaa
